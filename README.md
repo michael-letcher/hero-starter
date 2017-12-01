@@ -1,6 +1,7 @@
 # JavaScript Fight Club - Hero Starter
 
-[![Build Status](https://travis-ci.org/michael-letcher/hero-starter.svg?branch=master)](https://travis-ci.org/michael-letcher/hero-starter)
+[![Build Status](https://travis-ci.org/michael-letcher/hero-starter.svg?branch=master)](https://travis-ci.org/michael-letcher/hero-starter) [![Language Used](https://img.shields.io/badge/language-TypeScript-blue.svg)](http://www.typescriptlang.org/)
+
 
 ## Getting Started
 
