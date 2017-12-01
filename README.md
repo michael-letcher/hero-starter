@@ -51,7 +51,6 @@ The possibilities are endless! Go crazy and change your hero however you want. J
 
 If you are looking for even more of a challenge, take a look at the *helpers.js* file and begin picking apart our helper methods. Is there any way you could adapt our path-finding algorithm and use a variant in your *hero.js* file? What other helper methods should be available to your hero that we did not include?
 
-
 Your hero has the potential to behave in any way you decide. Every change you make could alter the outcome of the game. You can be a lone wolf or a team player. You can heal or you can hurt. It is all up to you.
 
 ## Testing and Training
@@ -98,7 +97,7 @@ You can modify how the test battle runs by passing the following options:
 * Diamond mines will be denoted by "DXX" where the Xs are numbers.
 * Health wells will be denoted by "WWW".
 
-#### Can I commit changes to the test script?
+#### Can I commit changes to the test script
 
 Absolutely! We only use your *hero.js* and *helpers.js* files for the live game, so feel free to do whatever you like with the rest of the files.
 
