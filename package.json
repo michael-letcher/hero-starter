@@ -21,7 +21,9 @@
     "chai": "^1.9.2",
     "commander": "^2.9.0",
     "eslint": "^3.8.0",
-    "mocha": "^1.21.4"
+    "mocha": "^1.21.4",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.2"
   },
   "dependencies": {
     "ai-battle-engine": "git+https://github.com/JSJitsu/ai-battle-engine.git"
